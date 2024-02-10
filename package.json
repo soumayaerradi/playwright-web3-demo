@@ -1,0 +1,7 @@
+{
+  "name": "plawright-web3-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "@metamask/test-dapp": "^8.1.0"
+  }
+}
